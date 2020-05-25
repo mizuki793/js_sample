@@ -1,0 +1,25 @@
+ul.navi{
+    width:220px;
+    margin:0px;
+}
+
+ul.navi,ul.menu{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+div.category{
+    margin-top:5px;
+    height:40px;
+    line-height:40px;
+    background-color: #B9DDE8;
+    cursor: pointer;
+}
+
+ul.menu a{
+    display: block;
+    height: 35px;
+    line-height: 35px;
+    color:#164158;
+}
